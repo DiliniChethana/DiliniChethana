@@ -23,4 +23,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilinichethana&show_icons=true&locale=en" alt="dilinichethana" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiliniChethana)](https://github.com/DiliniChethana/github-readme-stats)
