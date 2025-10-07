@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilini Chethana</h1>
 <h3 align="center">I am a student who undergraduate Computing and Information Systems at Sabaragamuwa University Of Sri Lanka. I'm Interested in HTML,CSS,Java and Python.</h3>
-<img src="C:\Users\Dilini\Desktop\gif-animation.html"/>
+<img src="C:\Users\Dilini\Desktop\gif-animation.html"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7hjDRcPkoJ_THV3j0uMP73B3nzUk20bXjQ&s/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilinichethana&label=Profile%20views&color=0e75b6&style=flat" alt="dilinichethana" /> </p>
 
