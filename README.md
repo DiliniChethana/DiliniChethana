@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilini Chethana</h1>
 <h3 align="center">I am a student who undergraduate Computing and Information Systems at Sabaragamuwa University Of Sri Lanka. I'm Interested in HTML,CSS,Java and Python.</h3>
-[gif-animation.htm](https://github.com/user-attachments/files/22750470/gif-animation.htm)
-
+<img width="1600" height="700" alt="Image" src="https://github.com/user-attachments/assets/3f86ad2b-afd2-481e-bec5-a232ce91d806" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilinichethana&label=Profile%20views&color=0e75b6&style=flat" alt="dilinichethana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilinichethana" alt="dilinichethana" /></a> </p>
