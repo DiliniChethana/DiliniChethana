@@ -34,17 +34,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| 💡 Project | 📝 Description | 🧰 Tech Stack |
-|-------------|----------------|---------------|
-| 🛡️ [SecuVision](https://github.com/Amhar-code/SecuVision) | AI-powered security system detecting suspicious activity in supermarkets. | React Native, Python, YOLO, Firebase |
-| 🍳 [Fridge AI](https://github.com/DiliniChethana/FridgeAI) | Smart AI app that generates recipes from leftover ingredients. | React, Flask, TensorFlow, MongoDB |
-| 💰 [Online Tax Payment System](https://github.com/DiliniChethana/TaxPaymentSystem) | Platform for secure online tax payments and admin management. | PHP, MySQL, HTML, CSS |
-| 🧭 [Pantry Finder](https://github.com/DiliniChethana/Pantry_Finder) | AI-based app for managing pantry items and recipe suggestions. | React, Node.js, Express.js |
-| 📱 [SecuVision Mobile App](https://github.com/DiliniChethana/SecuVision-App) | Mobile interface for AI surveillance management. | React Native, Firebase, TypeScript |
-
----
 
 ### 🧠 Currently Exploring
 - 🤖 Machine Learning Models (YOLOv8, CNNs, OpenCV)  
@@ -116,14 +105,6 @@
 
 ---
 
-### 💖 Support My Work
-<p align="center">
-  <a href="https://www.buymeacoffee.com/dilinichethana" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200"/>
-  </a>
-</p>
-
----
 
 ### 🌐 Connect With Me
 <p align="center">
