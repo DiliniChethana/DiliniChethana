@@ -101,7 +101,7 @@
 - 📷 Photography & Editing  
 - 📚 Reading tech blogs and research papers  
 - 🎮 Playing simulation and puzzle games  
-- ✈️ Exploring new technologies and learning by doing  
+- ✈️ Exploring new technologies and learning  
 
 ---
 
