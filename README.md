@@ -55,7 +55,7 @@
 - 🧠 **AI Tools:** TensorFlow | PyTorch | OpenCV | Scikit-learn  
 - 🌐 **Web:** React.js | Node.js | PHP | Bootstrap | Tailwind  
 - 📊 **Data:** MySQL | MongoDB | Pandas | Seaborn  
-- 💡 **Design:** Figma | Adobe Photoshop  
+- 💡 **Design:** Figma 
 - 🧾 **Testing & API:** Postman | Swagger  
 - 🧑‍💼 **Version Control:** Git | GitHub  
 
