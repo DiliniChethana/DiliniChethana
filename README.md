@@ -54,10 +54,10 @@
 ### 🧰 Tools I Use
 - 🧠 **AI Tools:** TensorFlow | PyTorch | OpenCV | Scikit-learn  
 - 🌐 **Web:** React.js | Node.js | PHP | Bootstrap | Tailwind  
-- 📊 **Data:** MySQL | MongoDB | Pandas | Seaborn  
+- 📊 **Data:** MySQL | MongoDB  
 - 💡 **Design:** Figma 
-- 🧾 **Testing & API:** Postman | Swagger  
-- 🧑‍💼 **Version Control:** Git | GitHub  
+- 🧾 **Testing & API:** Postman  
+- 🧑‍💼 **Version Control:**  GitHub  
 
 ---
 
