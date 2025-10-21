@@ -39,7 +39,7 @@
 - 🤖 Machine Learning Models (YOLOv8, CNNs, OpenCV)  
 - 🌐 Full Stack Web Development (React + Node.js)  
 - 📱 Cross-Platform Mobile Apps (Flutter, React Native)  
-- ☁️ Cloud Hosting (Firebase, Vercel, Render)
+- ☁️ Cloud Hosting (Vercel)
 
 ---
 
