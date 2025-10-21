@@ -63,7 +63,7 @@
 
 ### 🏆 Achievements & Goals
 - 🥇 Built an **AI-powered security app (SecuVision)** used in a university project  
-- 🌟 Developed **3+ full-stack systems** integrating AI and database technologies  
+- 🌟 Developed **full-stack systems** integrating AI and database technologies  
 - 🧩 Completed **Mini Projects** using PHP, HTML, CSS, and MySQL  
 - 🔭 Goal 2025: Publish a project on **AI for Food Sustainability**
 
