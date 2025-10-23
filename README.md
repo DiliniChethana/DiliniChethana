@@ -16,7 +16,7 @@
 
 - 🎓 I’m an **Undergraduate in Computing and Information Systems** at *Sabaragamuwa University of Sri Lanka*  
 - 💻 I enjoy working on **AI, Web, and Mobile App Projects**  
-- 🌱 Currently exploring **React, Python, HTML, and AI tools (TensorFlow, OpenCV, YOLO)**  
+- 🌱 Currently exploring **React, Python, HTML,CSS and AI tools (TensorFlow, OpenCV, YOLO)**  
 - 🧠 Love solving real-world problems through technology  
 - 💬 Ask me about **React, PHP, ML models, or UI design**  
 - 🖥️ Visit my Portfolio → [protfoliodilinichethana.vercel.app](https://protfoliodilinichethana.vercel.app)  
