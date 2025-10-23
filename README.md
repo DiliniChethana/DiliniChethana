@@ -18,7 +18,7 @@
 - 💻 I enjoy working on **AI, Web, and Mobile App Projects**  
 - 🌱 Currently exploring **React, Python, HTML,CSS,JavaScript and AI tools (TensorFlow, OpenCV, YOLO)**  
 - 🧠 Love solving real-world problems through technology  
-- 💬 Ask me about **React, PHP, ML models, or UI design**  
+- 💬 Ask me about **React, web technologies, ML models, or UI design**  
 - 🖥️ Visit my Portfolio → [protfoliodilinichethana.vercel.app](https://protfoliodilinichethana.vercel.app)  
 - 📧 Reach me: **dilinichethi@gmail.com**  
 - 💬 Motto: *“Code with creativity, build with purpose.”*
